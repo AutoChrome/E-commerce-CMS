@@ -1,0 +1,25 @@
+.product-border{
+    padding: 1rem;
+}
+
+.product-image{
+    padding:1rem;
+    height:75px;
+    width: 200px;
+    border: 1px solid #acacac;
+}
+
+.product-thumbnail{
+    padding:1rem;
+}
+
+.gallery{
+    padding:1rem;
+}
+
+.product-widget-image{
+    padding:1rem;
+    margin-left:1rem;
+    height:400px;
+    width:450px;
+}

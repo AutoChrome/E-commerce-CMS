@@ -1,0 +1,19 @@
+.product-card{
+    border-bottom: solid 1px #acacac;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.product-card-image{
+    
+}
+
+.product-card-information{
+    padding-left: 4rem;
+    font-size: 1rem;
+}
+
+.margin{
+    margin:1rem;
+}
+

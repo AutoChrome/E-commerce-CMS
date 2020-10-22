@@ -1,0 +1,10 @@
+.log-in-form, .sign-in-form  {
+    border: 1px solid #cacaca;
+    padding: 1rem;
+    margin:1rem;
+    border-radius: 1rem;
+}
+
+.sign-in-middle-align{
+    margin-top:12%;
+}

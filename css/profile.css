@@ -1,0 +1,10 @@
+.user-border{
+    border: 1px solid #acacac;
+    border-radius: 2px;
+    padding: 2rem;
+}
+
+.border{
+    border:1px solid #acacac;
+    border-radius: 2px;
+}
